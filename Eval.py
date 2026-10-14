@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""Eval harness. Run: python eval.py context_notes.csv [shipment_records.csv]
 
-A. Labeled verdict set (traps from the brief) scored for exact verdict + note id.
-B. Synthetic end-to-end check of weekly maths, baselines and flagging.
-C. Optional: 3 untouched runs on the real file, hash-compared.
-"""
 import csv
 import os
 import sys
