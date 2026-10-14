@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Shipping-cost watchdog
 
 ```
@@ -35,7 +35,4 @@ LLM calls: 0 | input tokens: 0 | output tokens: 0 | cost: $0. Reason text is tem
 - Reproducibility: 3 untouched runs, identical sha256
   2950d63bd45fd9ecb7f1e82b884320080b68a3f06dfb53762cc283f73f0283b1
 - Cost (one full run): 0 LLM calls, 0 input tokens, 0 output tokens, $0
-=======
-# freight-tiger-Assessment
-A smart shipping cost monitoring assistant that detects unusual route-wise cost increases, compares historical and peer costs, and explains potential reasons using contextual notes.
->>>>>>> 475a3ddbd02752a2db9aee264fe161baa083c16e
+
